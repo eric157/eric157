@@ -59,6 +59,11 @@ I'm deeply interested in these key areas:
 </p>
 
 ## 🏆 Top Contributed Repos
-<p align="center">
+<p align="left">
      <img src="https://github-contributor-stats.vercel.app/api?username=eric157&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repos"/>
+</p>
+
+## 🎯 My LeetCode Stats
+<p align="left">
+    <img src="https://leetcard.jacoblin.cool/ericpeterthomas15?theme=dark&font=Questrial&ext=activity" alt="LeetCode Stats"/>
 </p>
