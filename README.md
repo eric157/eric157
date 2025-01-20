@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Eric Peter Thomas  <span style="color:#50fa7b;">(@eric157)</span>
+# 👋 Hi there! I'm Eric Thomas <span style="color:#50fa7b;">(@eric157)</span>
 
 <p> A passionate Data Scientist and Machine Learning enthusiast currently pursuing my Master's in Data Science at <b>DA-IICT (Gandhinagar)</b>. I'm driven to leverage data to solve real-world challenges and create impactful solutions. </p>
 
