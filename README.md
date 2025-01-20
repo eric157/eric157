@@ -43,13 +43,18 @@ I'm deeply interested in these key areas:
 ## 📊 My GitHub Stats
 
 <p align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=eric157&theme=onedark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=eric157&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
   <br>
   <br>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=eric157&theme=onedark&hide_border=false" alt="GitHub Streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=eric157&theme=dark&hide_border=false" alt="GitHub Streak"/>
   <br>
   <br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eric157&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eric157&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
+</p>
+
+## 🏆 GitHub Trophies
+<p align="left">
+<img src="https://github-profile-trophy.vercel.app/?username=eric157&theme=radical&no-frame=false&no-bg=true&margin-w=4">
 </p>
 
 ## 💡 Random Dev Quote
