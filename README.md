@@ -2,7 +2,7 @@
 
 Data Scientist and Machine Learning enthusiast with a focus on **data analytics, machine learning, natural language processing, deep learning, and applied AI**.
 
-I enjoy working across the data lifecycle — from data exploration and statistical analysis to building machine learning models and developing practical data and AI applications.
+I enjoy working across the data lifecycle - from data exploration and statistical analysis to building machine learning models and developing practical data and AI applications.
 
 ## What I'm Exploring
 
